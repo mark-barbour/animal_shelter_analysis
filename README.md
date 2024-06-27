@@ -15,9 +15,9 @@
 ## Next Steps
 
 # Repository Navigation
- * [data](/data)
-     * [austin_animal_center_intakes_082620.csv](/data/austin_animal_center_intakes_082620.csv)
-     * [austin_animal_center_outcomes_082620.csv](/data/austin_animal_center_outcomes_082620.csv)
+ * [data](data)
+     * [austin_animal_center_intakes_082620.csv](data/austin_animal_center_intakes_082620.csv)
+     * [austin_animal_center_outcomes_082620.csv](data/austin_animal_center_outcomes_082620.csv)
  * [.gitignore](.gitignore)
  * [README.md](.README.md)
  * [presentation.pdf](presentation.pdf)
